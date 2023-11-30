@@ -1,0 +1,7 @@
+C:\Users\mdobr\Desktop\SpaceGame\SpaceGame\obj\Debug\SpaceGame.csproj.AssemblyReference.cache
+C:\Users\mdobr\Desktop\SpaceGame\SpaceGame\obj\Debug\SpaceGame.csproj.CoreCompileInputs.cache
+C:\Users\mdobr\Desktop\SpaceGame\SpaceGame\bin\Debug\SpaceGame.exe.config
+C:\Users\mdobr\Desktop\SpaceGame\SpaceGame\bin\Debug\SpaceGame.exe
+C:\Users\mdobr\Desktop\SpaceGame\SpaceGame\bin\Debug\SpaceGame.pdb
+C:\Users\mdobr\Desktop\SpaceGame\SpaceGame\obj\Debug\SpaceGame.exe
+C:\Users\mdobr\Desktop\SpaceGame\SpaceGame\obj\Debug\SpaceGame.pdb
